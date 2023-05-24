@@ -121,7 +121,7 @@ Profit for the Population:
 
 ![image](https://user-images.githubusercontent.com/119401038/229294591-9703694e-7692-4add-8289-b172ccade2e9.png)
 
-Profit foor the Population:
+Profit for the Population:
 
 ![image](https://user-images.githubusercontent.com/119401038/229294611-fbe37940-58f1-4f85-a5f9-0a793b8998f1.png)
 

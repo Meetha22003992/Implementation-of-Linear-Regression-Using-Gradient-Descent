@@ -97,18 +97,25 @@ def predict(x,theta):
 ```
 
 ## Output:
+Profit Prediction:
 ![image](https://user-images.githubusercontent.com/119401038/229294473-a9c24475-d57e-4d36-81ad-07316f5625db.png)
 
+Compute Cost:
 ![image](https://user-images.githubusercontent.com/119401038/229294500-318f6017-f818-4f13-b718-ed6daa507973.png)
 
+h(x) Value:
 ![image](https://user-images.githubusercontent.com/119401038/229294521-10e32811-e559-42c6-bdae-88bfd5c1653b.png)
 
+Cost Function using Gradient Descent Graph:
 ![image](https://user-images.githubusercontent.com/119401038/229294545-063d1f6b-b021-4898-9c32-8a06f2ec9820.png)
 
+Predict Predcition:
 ![image](https://user-images.githubusercontent.com/119401038/229294559-92510321-9185-46f1-a7ea-5038cbcb5432.png)
 
+Profit for the Population:
 ![image](https://user-images.githubusercontent.com/119401038/229294591-9703694e-7692-4add-8289-b172ccade2e9.png)
 
+Profit foor the Population:
 ![image](https://user-images.githubusercontent.com/119401038/229294611-fbe37940-58f1-4f85-a5f9-0a793b8998f1.png)
 
 ## Result:
